@@ -25,3 +25,7 @@ class Transfer
     end
   end
 end
+
+balance += 
+
+balance = balance + amount
